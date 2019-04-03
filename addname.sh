@@ -19,3 +19,4 @@ else
 	echo "$2">>ulist.txt
 fi
 cat ulist.txt
+echo "hi"
